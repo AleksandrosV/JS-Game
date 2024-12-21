@@ -39,7 +39,7 @@ scene("game", () => {
     onClick(jump);
 
     function spawnTree() {
-        // add tree obj
+        // add tree object
         add([
             rect(48, rand(32, 96)),
             area(),
@@ -57,7 +57,7 @@ scene("game", () => {
     // start spawning trees
     spawnTree();
 
-    // lose if player collides with any game obj with tag "tree"
+    // lose if player collides with any game object with tag "tree"
     player.onCollide("tree", () => {
         // go to "lose" scene and pass the score
         go("lose", score);
