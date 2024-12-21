@@ -31,3 +31,6 @@ This project is a JavaScript-based game. The game is designed to be fun and enga
 ## Usage
 - Press the spacebar to start the game.
 - Press the spacebar to jump.
+
+## Technology
+This project uses Kaplay for game logic and animations.
