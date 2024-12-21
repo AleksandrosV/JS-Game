@@ -9,6 +9,12 @@ This project is a JavaScript-based game. The game is designed to be fun and enga
 - Responsive design
 - High scores tracking
 
+## Prerequisites
+Before setting up the project, ensure the following software is installed on your system:
+- Node.js: Version 22.2.0 or higher
+- Git
+- IDE: Visual Studio Code (VS Code) recommended
+
 ## Installation
 1. Clone the repository:
     ```sh
